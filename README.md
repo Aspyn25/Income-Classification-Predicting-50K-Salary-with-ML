@@ -70,6 +70,6 @@ cd income-classification-ml
 
 For any questions or collaborations, feel free to reach out!
 
-📧 Email: jeongfree25@gmail.com <br>
-🔗 LinkedIn: [https://www.linkedin.com/in/jeonghyun-song-809457327/] <br>
+📧 Email: [jeongfree25@gmail.com] <br>
+🔗 LinkedIn: [https://www.linkedin.com/in/aspyn25] <br>
 🔗 GitHub: [https://github.com/Aspyn25]
